@@ -150,7 +150,7 @@
           <mxGeometry x="70" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AWcKcZ9BAlBSPEiRcSs5-43" value="Data Cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="230" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AWcKcZ9BAlBSPEiRcSs5-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="AWcKcZ9BAlBSPEiRcSs5-43" edge="1" source="AWcKcZ9BAlBSPEiRcSs5-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -184,6 +184,9 @@
               <mxPoint x="30" y="610" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="g2z2w09OoWJfFJIswqGr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2z2w09OoWJfFJIswqGr-2" target="AWcKcZ9BAlBSPEiRcSs5-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g2z2w09OoWJfFJIswqGr-2" value="CSR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="390" width="100" height="40" as="geometry" />
