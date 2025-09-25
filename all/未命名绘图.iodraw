@@ -185,7 +185,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g2z2w09OoWJfFJIswqGr-2" value="SFU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="g2z2w09OoWJfFJIswqGr-2" value="CSR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g2z2w09OoWJfFJIswqGr-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="AWcKcZ9BAlBSPEiRcSs5-9">
