@@ -156,16 +156,16 @@
         </mxCell>
         <mxCell id="AWcKcZ9BAlBSPEiRcSs5-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-660" y="110" as="sourcePoint" />
-            <mxPoint x="-660" y="110" as="targetPoint" />
+            <mxPoint x="-413" y="60" as="sourcePoint" />
+            <mxPoint x="-413" y="60" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-660" y="90" />
-              <mxPoint x="-460" y="90" />
-              <mxPoint x="-280" y="90" />
-              <mxPoint x="-280" y="110" />
-              <mxPoint x="-280" y="620" />
-              <mxPoint x="-470" y="620" />
-              <mxPoint x="-660" y="620" />
+              <mxPoint x="-413" y="40" />
+              <mxPoint x="-213" y="40" />
+              <mxPoint x="-33" y="40" />
+              <mxPoint x="-33" y="60" />
+              <mxPoint x="-33" y="570" />
+              <mxPoint x="-223" y="570" />
+              <mxPoint x="-413" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -335,16 +335,16 @@
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="110" as="sourcePoint" />
-            <mxPoint x="40" y="110" as="targetPoint" />
+            <mxPoint x="20" y="60" as="sourcePoint" />
+            <mxPoint x="20" y="60" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="40" y="90" />
-              <mxPoint x="240" y="90" />
-              <mxPoint x="420" y="90" />
-              <mxPoint x="420" y="110" />
-              <mxPoint x="420" y="620" />
-              <mxPoint x="230" y="620" />
-              <mxPoint x="40" y="620" />
+              <mxPoint x="20" y="40" />
+              <mxPoint x="220" y="40" />
+              <mxPoint x="400" y="40" />
+              <mxPoint x="400" y="60" />
+              <mxPoint x="400" y="570" />
+              <mxPoint x="210" y="570" />
+              <mxPoint x="20" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
