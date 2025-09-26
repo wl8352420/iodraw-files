@@ -200,6 +200,9 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-3" value="instruction cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="220" width="93" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LzEHU0TzMbddFucFfv1N-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-4" target="LzEHU0TzMbddFucFfv1N-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-4" value="decode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="220" width="93" height="40" as="geometry" />
         </mxCell>
