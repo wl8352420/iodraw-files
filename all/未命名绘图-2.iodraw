@@ -202,8 +202,8 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-1" target="Mwip3_M_k5hLjXjOImcv-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-520" y="160" />
-              <mxPoint x="-520" y="160" />
+              <mxPoint x="-480" y="150" />
+              <mxPoint x="-480" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -211,7 +211,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-1" value="warp scheduler/simt-stack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="130" width="220" height="60" as="geometry" />
+          <mxGeometry x="-390" y="120" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-3" target="LzEHU0TzMbddFucFfv1N-4">
           <mxGeometry relative="1" as="geometry" />
