@@ -200,10 +200,10 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="220" width="93" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzEHU0TzMbddFucFfv1N-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LzEHU0TzMbddFucFfv1N-6" value="issue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="220" width="93" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzEHU0TzMbddFucFfv1N-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LzEHU0TzMbddFucFfv1N-7" value="regfile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="320" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
