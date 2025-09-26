@@ -203,6 +203,9 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-5" value="ibuffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="220" width="93" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LzEHU0TzMbddFucFfv1N-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-6" target="LzEHU0TzMbddFucFfv1N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-6" value="issue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="220" width="93" height="40" as="geometry" />
         </mxCell>
@@ -235,9 +238,6 @@
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-18" value="global memory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-800" y="450" width="93" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LzEHU0TzMbddFucFfv1N-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.397;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-2" target="LzEHU0TzMbddFucFfv1N-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
