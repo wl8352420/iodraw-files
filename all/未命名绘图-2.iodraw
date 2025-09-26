@@ -123,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AWcKcZ9BAlBSPEiRcSs5-41" value="Writeback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="320" y="200" width="90" height="60" as="geometry" />
+          <mxGeometry x="310" y="260" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AWcKcZ9BAlBSPEiRcSs5-42" value="Share Memory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="70" y="520" width="120" height="60" as="geometry" />
