@@ -210,8 +210,8 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-1" target="LzEHU0TzMbddFucFfv1N-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzEHU0TzMbddFucFfv1N-1" value="warp scheduler/simt-stack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="120" width="220" height="60" as="geometry" />
+        <mxCell id="LzEHU0TzMbddFucFfv1N-1" value="warp scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="120" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-3" target="LzEHU0TzMbddFucFfv1N-4">
           <mxGeometry relative="1" as="geometry" />
