@@ -353,6 +353,9 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-47" value="前 端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-470" y="60" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LzEHU0TzMbddFucFfv1N-48" value="后&amp;nbsp; &amp;nbsp;端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="48" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
