@@ -138,7 +138,7 @@
           <mxGeometry x="70" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AWcKcZ9BAlBSPEiRcSs5-43" value="Data Cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="220" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AWcKcZ9BAlBSPEiRcSs5-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AWcKcZ9BAlBSPEiRcSs5-42" target="AWcKcZ9BAlBSPEiRcSs5-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
