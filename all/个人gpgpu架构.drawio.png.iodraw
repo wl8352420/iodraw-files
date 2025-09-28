@@ -349,8 +349,8 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-56" value="simt-stack" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-227" y="130" width="93" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-807" y="298" width="60" height="42" as="geometry" />
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-11" value="NoC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-804" y="298" width="47" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
