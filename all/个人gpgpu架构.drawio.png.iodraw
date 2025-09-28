@@ -205,7 +205,7 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-7" value="regfile" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="310" width="93" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzEHU0TzMbddFucFfv1N-8" value="scdeboard" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LzEHU0TzMbddFucFfv1N-8" value="scoreboard" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-270" y="310" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-11" value="CTA scheduler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -389,14 +389,14 @@
             <mxPoint x="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LzEHU0TzMbddFucFfv1N-1">
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-110" y="350" as="sourcePoint" />
-            <mxPoint x="-60" y="300" as="targetPoint" />
+            <mxPoint x="-100" y="350" as="sourcePoint" />
+            <mxPoint x="-280" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-110" y="430" />
-              <mxPoint x="-290" y="430" />
-              <mxPoint x="-290" y="310" />
+              <mxPoint x="-100" y="430" />
+              <mxPoint x="-280" y="430" />
+              <mxPoint x="-280" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
