@@ -73,24 +73,6 @@
             <mxPoint x="80" y="289.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AWcKcZ9BAlBSPEiRcSs5-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="550" as="sourcePoint" />
-            <mxPoint x="80" y="349.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="30" y="350" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AWcKcZ9BAlBSPEiRcSs5-30" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="550" as="sourcePoint" />
-            <mxPoint x="80" y="409.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="30" y="410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AWcKcZ9BAlBSPEiRcSs5-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="AWcKcZ9BAlBSPEiRcSs5-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="109.5" as="sourcePoint" />
@@ -180,12 +162,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="129.5" y="450" as="sourcePoint" />
             <mxPoint x="129.5" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g2z2w09OoWJfFJIswqGr-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="469.5" as="sourcePoint" />
-            <mxPoint x="80" y="469.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mwip3_M_k5hLjXjOImcv-3" target="LzEHU0TzMbddFucFfv1N-3" edge="1">
