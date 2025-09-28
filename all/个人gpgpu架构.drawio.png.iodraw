@@ -111,7 +111,7 @@
         </mxCell>
         <mxCell id="gMJTxtgOtrqC1lrSEIHb-66" value="标记存储器为就绪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gMJTxtgOtrqC1lrSEIHb-65">
           <mxGeometry x="0.7931" y="-3" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="-121" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AWcKcZ9BAlBSPEiRcSs5-41" value="Writeback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -375,20 +375,17 @@
             <mxPoint x="310" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gMJTxtgOtrqC1lrSEIHb-64" target="LzEHU0TzMbddFucFfv1N-8">
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LzEHU0TzMbddFucFfv1N-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="260" as="sourcePoint" />
+            <mxPoint x="-212.0999999999999" y="300" as="sourcePoint" />
             <mxPoint x="-90" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="gMJTxtgOtrqC1lrSEIHb-64">
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-140" y="260" as="sourcePoint" />
-            <mxPoint x="-233" y="310" as="targetPoint" />
+            <mxPoint x="-180" y="270" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-64" value="标记存储器为忙碌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="270" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
