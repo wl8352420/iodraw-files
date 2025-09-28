@@ -267,8 +267,13 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-15" value="SM" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-747" y="310" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-810" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-16" value="SM" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-850" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="-827" y="340" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-17" value="L2 cache" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-827" y="400" width="93" height="40" as="geometry" />
