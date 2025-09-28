@@ -199,7 +199,7 @@
         <mxCell id="Mwip3_M_k5hLjXjOImcv-3" value="fetch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="130" width="93" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-1" target="LzEHU0TzMbddFucFfv1N-56">
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-1" target="LzEHU0TzMbddFucFfv1N-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-1" value="warp scheduler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -356,9 +356,6 @@
               <mxPoint x="210" y="510" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-56" target="LzEHU0TzMbddFucFfv1N-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-56" value="simt-stack" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-260" y="130" width="93" height="40" as="geometry" />
