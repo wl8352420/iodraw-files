@@ -259,7 +259,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-12" value="host device" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="90" width="93" height="40" as="geometry" />
+          <mxGeometry x="-827" y="90" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-13" value="SM" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-850" y="250" width="40" height="40" as="geometry" />
@@ -271,7 +271,7 @@
           <mxGeometry x="-747" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-16" value="SM" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="-850" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-17" value="L2 cache" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="370" width="93" height="40" as="geometry" />
@@ -370,6 +370,9 @@
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-56" value="simt-stack" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-227" y="130" width="93" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-11" target="LzEHU0TzMbddFucFfv1N-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
