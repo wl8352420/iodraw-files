@@ -324,7 +324,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gMJTxtgOtrqC1lrSEIHb-50" value="share memory/L1 cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="260" y="430" width="110" height="60" as="geometry" />
+          <mxGeometry x="230" y="440" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMJTxtgOtrqC1lrSEIHb-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -354,6 +354,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="410" as="sourcePoint" />
             <mxPoint x="230" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="440" as="sourcePoint" />
+            <mxPoint x="310" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
