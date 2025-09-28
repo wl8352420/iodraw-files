@@ -190,7 +190,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-8" value="scdeboard" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="320" width="93" height="40" as="geometry" />
+          <mxGeometry x="-293" y="320" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-11" value="CTA scheduler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1120" y="288" width="93" height="40" as="geometry" />
