@@ -188,16 +188,19 @@
           <mxGeometry x="-140" y="310" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-11" value="CTA scheduler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-993" y="190" width="93" height="40" as="geometry" />
+          <mxGeometry x="-1120" y="290" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gMJTxtgOtrqC1lrSEIHb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-12" target="LzEHU0TzMbddFucFfv1N-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-12" value="host device" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1280" y="289" width="93" height="40" as="geometry" />
+          <mxGeometry x="-1120" y="140" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-13" value="SM" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-860" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-14" target="LzEHU0TzMbddFucFfv1N-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-14" value="SM" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-760" y="80" width="40" height="40" as="geometry" />
