@@ -336,6 +336,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-56" target="LzEHU0TzMbddFucFfv1N-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-56" value="simt-stack" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="130" width="93" height="40" as="geometry" />
         </mxCell>
