@@ -279,7 +279,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-16" value="SM" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-850" y="340" width="40" height="40" as="geometry" />
+          <mxGeometry x="-860" y="180" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gMJTxtgOtrqC1lrSEIHb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-17" target="LzEHU0TzMbddFucFfv1N-18">
           <mxGeometry relative="1" as="geometry" />
