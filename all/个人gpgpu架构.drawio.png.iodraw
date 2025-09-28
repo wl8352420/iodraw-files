@@ -381,7 +381,7 @@
             <mxPoint x="-40" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-71" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gMJTxtgOtrqC1lrSEIHb-70">
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-71" value="忙碌" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gMJTxtgOtrqC1lrSEIHb-70">
           <mxGeometry x="-0.1949" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
