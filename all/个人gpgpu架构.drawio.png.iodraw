@@ -261,9 +261,6 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-13" value="SM" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-850" y="250" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-14" target="LzEHU0TzMbddFucFfv1N-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-14" value="SM" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-747" y="250" width="40" height="40" as="geometry" />
         </mxCell>
@@ -291,12 +288,6 @@
             <Array as="points">
               <mxPoint x="370" y="550" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LzEHU0TzMbddFucFfv1N-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-727.5" y="310" as="sourcePoint" />
-            <mxPoint x="-727.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LzEHU0TzMbddFucFfv1N-18" target="LzEHU0TzMbddFucFfv1N-17" edge="1">
@@ -357,6 +348,9 @@
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-56" value="simt-stack" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-227" y="130" width="93" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-16" target="LzEHU0TzMbddFucFfv1N-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
