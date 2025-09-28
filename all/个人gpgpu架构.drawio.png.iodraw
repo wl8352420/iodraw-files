@@ -184,10 +184,10 @@
           <mxGeometry x="-140" y="220" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-7" value="regfile" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="400" width="93" height="40" as="geometry" />
+          <mxGeometry x="-280" y="310" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-8" value="scoreboard" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="320" width="93" height="40" as="geometry" />
+          <mxGeometry x="-140" y="310" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-11" value="CTA scheduler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1120" y="288" width="93" height="40" as="geometry" />
@@ -357,17 +357,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="440" as="sourcePoint" />
             <mxPoint x="310" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LzEHU0TzMbddFucFfv1N-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-90" y="260" as="sourcePoint" />
-            <mxPoint x="-40" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-71" value="忙碌" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gMJTxtgOtrqC1lrSEIHb-70">
-          <mxGeometry x="-0.1949" y="-1" relative="1" as="geometry">
-            <mxPoint x="-22" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
