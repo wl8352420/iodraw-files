@@ -109,11 +109,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-66" value="标记存储器为就绪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gMJTxtgOtrqC1lrSEIHb-65">
-          <mxGeometry x="0.7931" y="-3" relative="1" as="geometry">
-            <mxPoint x="-121" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AWcKcZ9BAlBSPEiRcSs5-41" value="Writeback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="310" y="260" width="90" height="60" as="geometry" />
         </mxCell>
@@ -201,6 +196,11 @@
         </mxCell>
         <mxCell id="gMJTxtgOtrqC1lrSEIHb-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-7" target="LzEHU0TzMbddFucFfv1N-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-74" value="就绪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gMJTxtgOtrqC1lrSEIHb-73">
+          <mxGeometry x="-0.3166" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-7" value="regfile" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="310" width="93" height="40" as="geometry" />
