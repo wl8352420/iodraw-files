@@ -350,11 +350,6 @@
             <mxPoint x="-730" y="319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMJTxtgOtrqC1lrSEIHb-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-830" y="319" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gMJTxtgOtrqC1lrSEIHb-11" value="NoC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-950" y="290" width="47" height="42" as="geometry" />
         </mxCell>
