@@ -273,7 +273,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-16" value="SM" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-827" y="340" width="40" height="40" as="geometry" />
+          <mxGeometry x="-850" y="340" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-17" value="L2 cache" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-827" y="400" width="93" height="40" as="geometry" />
@@ -349,8 +349,8 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-56" value="simt-stack" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-227" y="130" width="93" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-16" target="LzEHU0TzMbddFucFfv1N-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="48" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
