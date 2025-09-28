@@ -411,9 +411,6 @@
             <mxPoint x="-240" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-92" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="710" width="440" height="440" as="geometry" />
-        </mxCell>
         <mxCell id="gMJTxtgOtrqC1lrSEIHb-93" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-540" y="730" width="110" height="110" as="geometry" />
         </mxCell>
