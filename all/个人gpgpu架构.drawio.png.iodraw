@@ -278,13 +278,6 @@
         <mxCell id="LzEHU0TzMbddFucFfv1N-18" value="global memory" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="450" width="93" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzEHU0TzMbddFucFfv1N-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LzEHU0TzMbddFucFfv1N-8" target="LzEHU0TzMbddFucFfv1N-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="310" as="sourcePoint" />
-            <mxPoint x="-90" y="260" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="AWcKcZ9BAlBSPEiRcSs5-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="320" as="sourcePoint" />
