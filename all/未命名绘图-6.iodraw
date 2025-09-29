@@ -172,7 +172,7 @@
           <mxGeometry x="-280" y="410" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-11" value="CTA scheduler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1120" y="290" width="93" height="40" as="geometry" />
+          <mxGeometry x="-1090" y="288" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gMJTxtgOtrqC1lrSEIHb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LzEHU0TzMbddFucFfv1N-12" target="LzEHU0TzMbddFucFfv1N-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
