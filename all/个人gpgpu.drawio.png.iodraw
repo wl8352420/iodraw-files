@@ -214,7 +214,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-47" value="前 端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="60" width="200" height="40" as="geometry" />
+          <mxGeometry x="-460" y="30" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-48" value="后&amp;nbsp; &amp;nbsp;端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="170" y="48" width="60" height="30" as="geometry" />
@@ -413,6 +413,7 @@
             <Array as="points">
               <mxPoint x="360" y="520" />
               <mxPoint x="-120" y="520" />
+              <mxPoint x="-120" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
