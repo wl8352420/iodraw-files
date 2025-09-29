@@ -143,7 +143,7 @@
           <mxGeometry x="-640" y="130" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-1" value="warp scheduler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="130" width="90" height="40" as="geometry" />
+          <mxGeometry x="-570" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LzEHU0TzMbddFucFfv1N-3" target="LzEHU0TzMbddFucFfv1N-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
