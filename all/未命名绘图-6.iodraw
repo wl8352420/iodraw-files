@@ -169,10 +169,7 @@
           <mxGeometry x="-140" y="220" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-7" value="regfile" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="310" width="93" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LzEHU0TzMbddFucFfv1N-8" value="scoreboard" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="310" width="93" height="40" as="geometry" />
+          <mxGeometry x="-280" y="410" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzEHU0TzMbddFucFfv1N-11" value="CTA scheduler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1120" y="290" width="93" height="40" as="geometry" />
@@ -354,7 +351,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gMJTxtgOtrqC1lrSEIHb-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.633;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LzEHU0TzMbddFucFfv1N-7" target="LzEHU0TzMbddFucFfv1N-1" edge="1">
+        <mxCell id="gMJTxtgOtrqC1lrSEIHb-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.633;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LzEHU0TzMbddFucFfv1N-8" target="LzEHU0TzMbddFucFfv1N-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gMJTxtgOtrqC1lrSEIHb-83" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="gMJTxtgOtrqC1lrSEIHb-50" edge="1">
@@ -372,6 +369,15 @@
               <mxPoint x="-93" y="80" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DuqLaxaXFOZsMeCNpb_t-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzEHU0TzMbddFucFfv1N-7" target="LzEHU0TzMbddFucFfv1N-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-233" y="410" as="sourcePoint" />
+            <mxPoint x="-233" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzEHU0TzMbddFucFfv1N-8" value="scoreboard" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="290" width="93" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
