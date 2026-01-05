@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="100" width="120" height="100" as="geometry" />
+          <mxGeometry x="322" y="100" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-18" value="PBS缓存区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="140" width="64" height="30" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="250" y="135" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-37" value="出车序列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="128" width="70" height="30" as="geometry" />
+          <mxGeometry x="440" y="130" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
