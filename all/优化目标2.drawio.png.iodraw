@@ -30,20 +30,8 @@
             <mxPoint x="250" y="315" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3xLbgrGczmgcNTUeTUMG-14" value="h" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="660" y="245" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="3xLbgrGczmgcNTUeTUMG-15" value="h" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="530" y="245" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="3xLbgrGczmgcNTUeTUMG-16" value="r" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="565" y="245" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="3xLbgrGczmgcNTUeTUMG-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="630" y="305" as="geometry" />
-        </mxCell>
-        <mxCell id="3xLbgrGczmgcNTUeTUMG-18" value="r" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="595" y="245" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3xLbgrGczmgcNTUeTUMG-19" value="进车序列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="290" width="70" height="30" as="geometry" />
@@ -53,9 +41,6 @@
         </mxCell>
         <mxCell id="3xLbgrGczmgcNTUeTUMG-21" value="t" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="150" y="305" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="3xLbgrGczmgcNTUeTUMG-22" value="h" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="630" y="245" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3xLbgrGczmgcNTUeTUMG-24" value="h" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="660" y="340" width="20" height="20" as="geometry" />
