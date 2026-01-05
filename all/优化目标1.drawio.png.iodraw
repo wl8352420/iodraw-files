@@ -140,9 +140,6 @@
         <mxCell id="SSeDyMXw1bgjI45KmAkA-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SSeDyMXw1bgjI45KmAkA-52" target="SSeDyMXw1bgjI45KmAkA-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSeDyMXw1bgjI45KmAkA-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="295" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="225" width="170" height="60" as="geometry" />
         </mxCell>
@@ -163,9 +160,6 @@
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-67" value="进车序列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SSeDyMXw1bgjI45KmAkA-68" value="出车序列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="285" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-69" value="h" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="90" y="305" width="20" height="20" as="geometry" />
