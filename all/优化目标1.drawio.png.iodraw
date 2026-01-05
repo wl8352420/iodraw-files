@@ -30,6 +30,21 @@
         <mxCell id="SSeDyMXw1bgjI45KmAkA-18" value="PBS缓存区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="140" width="64" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SSeDyMXw1bgjI45KmAkA-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SSeDyMXw1bgjI45KmAkA-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SSeDyMXw1bgjI45KmAkA-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SSeDyMXw1bgjI45KmAkA-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SSeDyMXw1bgjI45KmAkA-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
