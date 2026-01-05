@@ -60,7 +60,12 @@
           <mxGeometry x="320" y="518.2" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v5pAcg7PZ4tnBJ5cA-9S-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5pAcg7PZ4tnBJ5cA-9S-18" target="v5pAcg7PZ4tnBJ5cA-9S-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="560" />
+              <mxPoint x="480" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v5pAcg7PZ4tnBJ5cA-9S-18" value="车道分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="508.2" width="105" height="40" as="geometry" />
@@ -73,6 +78,9 @@
         </mxCell>
         <mxCell id="v5pAcg7PZ4tnBJ5cA-9S-22" value="满足优化目标4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v5pAcg7PZ4tnBJ5cA-9S-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="690" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
