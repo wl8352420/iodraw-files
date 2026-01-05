@@ -153,10 +153,13 @@
           <mxGeometry x="510" y="285" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-62" value="h" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="640" y="305" width="20" height="20" as="geometry" />
+          <mxGeometry x="650" y="305" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-63" value="h" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="530" y="305" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SSeDyMXw1bgjI45KmAkA-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSeDyMXw1bgjI45KmAkA-64" target="SSeDyMXw1bgjI45KmAkA-66">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-64" value="r" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="560" y="305" width="20" height="20" as="geometry" />
@@ -165,7 +168,7 @@
           <mxGeometry x="630" y="305" as="geometry" />
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-66" value="r" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="610" y="305" width="20" height="20" as="geometry" />
+          <mxGeometry x="620" y="305" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-67" value="进车序列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="70" height="30" as="geometry" />
