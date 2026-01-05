@@ -142,10 +142,10 @@
         <mxCell id="OG6WYAKqjag7aUVZpKe1-30" value="f" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="525" y="350" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OG6WYAKqjag7aUVZpKe1-31" value="t" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="OG6WYAKqjag7aUVZpKe1-31" value="f" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="580" y="350" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OG6WYAKqjag7aUVZpKe1-32" value="f" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="OG6WYAKqjag7aUVZpKe1-32" value="t" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="605" y="350" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OG6WYAKqjag7aUVZpKe1-33" value="f" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -154,7 +154,7 @@
         <mxCell id="OG6WYAKqjag7aUVZpKe1-34" value="f" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="550" y="350" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OG6WYAKqjag7aUVZpKe1-35" value="f" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="OG6WYAKqjag7aUVZpKe1-35" value="t" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="630" y="350" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
