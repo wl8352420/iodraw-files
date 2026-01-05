@@ -128,14 +128,11 @@
         <mxCell id="SSeDyMXw1bgjI45KmAkA-53" value="h" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="90" y="305" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SSeDyMXw1bgjI45KmAkA-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SSeDyMXw1bgjI45KmAkA-54" target="SSeDyMXw1bgjI45KmAkA-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-54" value="h" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="130" y="305" width="20" height="20" as="geometry" />
+          <mxGeometry x="120" y="305" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-55" value="r" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="305" width="20" height="20" as="geometry" />
+          <mxGeometry x="180" y="305" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-56" value="r" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="210" y="305" width="20" height="20" as="geometry" />
