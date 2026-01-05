@@ -38,13 +38,8 @@
         <mxCell id="v5pAcg7PZ4tnBJ5cA-9S-10" value="严格约束条件下PBS调度问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241.57" y="358.13" width="280" height="41.87" as="geometry" />
         </mxCell>
-        <mxCell id="v5pAcg7PZ4tnBJ5cA-9S-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5pAcg7PZ4tnBJ5cA-9S-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v5pAcg7PZ4tnBJ5cA-9S-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="310" y="335" width="50" height="190" as="geometry" />
+          <mxGeometry x="357.5" y="287.5" width="50" height="285" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
