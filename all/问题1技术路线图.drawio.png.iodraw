@@ -12,6 +12,11 @@
         <mxCell id="v5pAcg7PZ4tnBJ5cA-9S-1" value="数据输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="30" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="v5pAcg7PZ4tnBJ5cA-9S-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5pAcg7PZ4tnBJ5cA-9S-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v5pAcg7PZ4tnBJ5cA-9S-3" value="数据分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="40" as="geometry" />
         </mxCell>
