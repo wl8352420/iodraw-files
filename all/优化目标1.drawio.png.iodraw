@@ -189,9 +189,9 @@
             <mxPoint x="490" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SSeDyMXw1bgjI45KmAkA-92" value="出车序列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SSeDyMXw1bgjI45KmAkA-90">
+        <mxCell id="SSeDyMXw1bgjI45KmAkA-92" value="出车序列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-35;" vertex="1" connectable="0" parent="SSeDyMXw1bgjI45KmAkA-90">
           <mxGeometry x="-0.0105" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SSeDyMXw1bgjI45KmAkA-91" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SSeDyMXw1bgjI45KmAkA-81">
